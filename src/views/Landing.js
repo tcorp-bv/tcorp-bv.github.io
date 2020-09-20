@@ -584,7 +584,7 @@ class Landing extends React.Component {
                                 <Col lg="10">
                                     <h2 className="display-3 text-white">The numbers...</h2>
                                     <p className="lead text-white">
-                                        TCorp is young but planning to grow quickly!
+                                        TCorp is young and planning to grow quickly!
                                     </p>
                                 </Col>
                             </Row>

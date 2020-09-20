@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86f754de-61ad-4df5-bda4-0fd0522d20ae" name="Default Changelist" comment="Added CNAME tcbv.be">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Landing.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hivLuKoTPRejyrfpLaJyO7BHSX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/img/team" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img/team" />
+      <recent name="$PROJECT_DIR$/src/views" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/components/Navbars" />
+      <recent name="$PROJECT_DIR$/src/assets/img/icons" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86f754de-61ad-4df5-bda4-0fd0522d20ae" name="Default Changelist" comment="" />
+      <created>1600506674625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600506674625</updated>
+      <workItem from="1600506675831" duration="34738000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1600633266929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600633266929</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added deployci script">
+      <created>1600633428061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600633428062</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added design-system-react">
+      <created>1600634836224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600634836224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hash based navigation">
+      <created>1600636017643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600636017643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed typos and updated profile picture">
+      <created>1600637443587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600637443587</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added CNAME tcbv.be">
+      <created>1600638529632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600638529632</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Added deployci script" />
+    <MESSAGE value="Added design-system-react" />
+    <MESSAGE value="Hash based navigation" />
+    <MESSAGE value="Fixed typos and updated profile picture" />
+    <MESSAGE value="Added CNAME tcbv.be" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added CNAME tcbv.be" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2584" y="342" width="582" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600638508170">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2584" y="342" width="582" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.26.1848.1054/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600638508170" />
+    <state x="2613" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600632800212">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.26.1848.1054/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600632800212" />
+    <state x="2475" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600638520833">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/72.26.1848.1054/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600638520833" />
+    <state x="2544" y="245" key="run.anything.popup" timestamp="1600541704074">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="245" key="run.anything.popup/72.26.1848.1054/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600541704074" />
+  </component>
+</project>
