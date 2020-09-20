@@ -39,7 +39,7 @@
     "map-sass": "node-sass src/assets/scss/argon-design-system-react.scss src/assets/css/argon-design-system-react.css --source-map true",
 
     "deploy": "gh-pages -d build",
-    "deployci": "npm run build && gh-pages -d build  -u 'github-actions-bot <support+actions@github.com>'"
+    "deployci": "CI=\"\" npm run build && gh-pages -d build  -u 'github-actions-bot <support+actions@github.com>'"
   },
   "eslintConfig": {
     "extends": "react-app"
