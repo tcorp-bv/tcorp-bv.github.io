@@ -23,12 +23,6 @@ import {
     Card,
     CardHeader,
     CardBody,
-    FormGroup,
-    Form,
-    Input,
-    InputGroupAddon,
-    InputGroupText,
-    InputGroup,
     Container,
     Row,
     Col, Media, NavItem
