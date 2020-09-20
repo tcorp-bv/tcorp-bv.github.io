@@ -383,7 +383,7 @@ class Landing extends React.Component {
                                         </p>
                                         <p>
                                             Our main hub partner is located in Yiwu, China. Recently upgraded in size,
-                                            it is able to process over ten 40FT containers per week without an issue.
+                                            it is able to process over ten 40FT containers per week.
                                         </p>
                                     </div>
                                 </Col>
@@ -413,7 +413,7 @@ class Landing extends React.Component {
                                         <div className="pl-4">
                                             <h4 className="display-3 text-white">Customer Service</h4>
                                             <p className="text-white">
-                                                TCorp does all the customer service, as a supplier you never have to talk to an European customer.
+                                                TCorp does all the customer service, as a supplier you never have to talk to a European customer.
                                                 The customer service focuses on customer satisfaction.
                                             </p>
                                         </div>
