@@ -194,7 +194,7 @@ class TCorpNavbar extends React.Component {
                     </DropdownMenu>
                   </UncontrolledDropdown>
                   <NavItem nav>
-                    <NavLink href={"contact"}>
+                    <NavLink href={"#contact"}>
                       <i className="ni ni-collection d-lg-none mr-1" />
                       <span className="nav-link-inner--text">Contact</span>
                     </NavLink>

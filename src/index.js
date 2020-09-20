@@ -17,7 +17,7 @@
 */
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
+import { HashRouter, Route, Switch, Redirect } from "react-router-dom";
 
 import "assets/vendor/nucleo/css/nucleo.css";
 import "assets/vendor/font-awesome/css/font-awesome.min.css";
@@ -29,7 +29,7 @@ import Register from "views/examples/Register.js";
 import Contact from "views/Contact";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <HashRouter basename='/'>
     <Switch>
       <Route path="/" exact render={props => <Landing {...props} />} />
       <Route path="/landing-page" exact render={props => <Landing {...props} />}/>
@@ -38,6 +38,6 @@ ReactDOM.render(
       <Route path="/contact" exact render={props => <Contact  {...props} />}/>
       <Redirect to="/" />
     </Switch>
-  </BrowserRouter>,
+  </HashRouter>,
   document.getElementById("root")
 );

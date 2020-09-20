@@ -357,7 +357,7 @@ class Landing extends React.Component {
 
                                                     className="btn-warning"
                                                     color="warning"
-                                                    href="contact"
+                                                    href="#contact"
                                                     size="lg"
                                                 >
                                                     Contact us to learn more
@@ -567,7 +567,7 @@ class Landing extends React.Component {
                                                 block
                                                 className="btn-white"
                                                 color="default"
-                                                href="contact"
+                                                href="#contact"
                                                 size="lg"
                                             >
                                                 Contact us now
@@ -651,7 +651,7 @@ class Landing extends React.Component {
                                             <Button
                                                 className="btn-warning"
                                                 color="warning"
-                                                href="contact"
+                                                href="#contact"
                                                 size="lg"
                                             >
                                                 Contact us to learn more
