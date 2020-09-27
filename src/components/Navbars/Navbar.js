@@ -110,7 +110,7 @@ class TCorpNavbar extends React.Component {
                       <div className="dropdown-menu-inner">
                         <Media disabled
                           className="d-flex align-items-center"
-                          href="contact"
+                          href="#contact"
                         >
                           <div className="icon icon-shape bg-gradient-primary rounded-circle text-white">
                             <i className="ni ni-spaceship" />
@@ -127,7 +127,7 @@ class TCorpNavbar extends React.Component {
                         </Media>
                         <Media disabled
                                className="d-flex align-items-center"
-                               href="contact"
+                               href="#contact"
                         >
                           <div className="icon icon-shape bg-gradient-warning rounded-circle text-white">
                             <i className="ni ni-spaceship" />
