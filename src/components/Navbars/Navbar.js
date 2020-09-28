@@ -237,7 +237,7 @@ class TCorpNavbar extends React.Component {
                     <Button
                       className="btn-neutral btn-icon"
                       color="default"
-                      href="https://supplier.tcbv.be/"
+                      href="https://portal.tcbv.be/"
                       target="_blank"
                     >
                       <span className="btn-inner--icon">
