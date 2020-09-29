@@ -19,7 +19,7 @@ import {
 import Navbar from "components/Navbars/Navbar.js";
 import Footer from "../components/Footers/Footer";
 
-const linkSupplierPlatform = "https://supplier.tcbv.be";
+const linkSupplierPlatform = "https://portal.tcbv.be";
 const linkCustomerService = "https://www.bol.com/nl/klantenservice/index.html";
 const linkCE = "https://europa.eu/youreurope/business/product-requirements/labels-markings/ce-marking/index_en.htm";
 const linkRoHS = "https://ec.europa.eu/growth/single-market/european-standards/harmonised-standards/restriction-of-hazardous-substances_en";
