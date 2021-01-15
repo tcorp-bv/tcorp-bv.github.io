@@ -172,11 +172,13 @@ class TCorpNavbar extends React.Component {
                         <Media
                             className="d-flex align-items-center"
                             href="https://amazon.co.uk"
+                            w
                             target="_blank"
                         >
                           <div className="icon icon-shape bg-gradient-warning rounded-circle text-white">
                             <img
                                 alt="..."
+                                width="40px"
                                 src={require("assets/img/icons/amazon.png")}
                             />
                           </div>
