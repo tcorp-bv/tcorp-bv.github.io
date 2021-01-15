@@ -113,7 +113,7 @@ class TCorpNavbar extends React.Component {
                           href="#contact"
                         >
                           <div className="icon icon-shape bg-gradient-primary rounded-circle text-white">
-                            <i className="ni ni-spaceship" />
+                            <i className="ni ni-ruler-pencil" />
                           </div>
                           <Media  body className="ml-3">
                             <h6 className="heading text-primary mb-md-1">
